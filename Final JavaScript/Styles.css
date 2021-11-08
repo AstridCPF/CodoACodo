@@ -1,0 +1,65 @@
+.text-in-img {
+    color: white;
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    width: 500px;
+    height: 300px;
+    font-size:1vw;
+}
+
+.btn {
+    display: inline-block;
+    margin: 5px;
+}
+
+p.page-titles {
+    line-height: 1.4;
+    text-align: center;
+    font-size: small;
+}
+
+.card-text {
+    font-size: small;
+}
+
+.card:hover {
+    background-color: rgba(144, 212, 243, 0.467);
+}
+
+a.ignite {
+    color: black;
+    background-color: transparent;
+    border-bottom-style: dotted;
+    border-bottom-color: initial;
+    border-bottom-width: 1px;
+}
+
+a:hover {
+    color: rgb(2, 83, 19);
+    text-decoration: none;
+}
+
+.border {
+    display: inline-block;
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+  }
+
+#Total {
+    background-color: rgb(144, 212, 243);
+    border: 0px;
+}
+
+#botonCal {
+    background-color: rgb(117, 231, 3);
+    border: 0px;
+}
+
+#botborr {
+    background-color: rgb(117, 231, 3);
+    border: 0px;
+}
